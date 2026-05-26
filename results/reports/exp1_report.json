@@ -1,0 +1,80 @@
+{
+  "cells": [
+    {
+      "cell": "RF390 - SOLVE",
+      "n_scored": 131,
+      "n_total": 131,
+      "GT%": 70.99236641221374,
+      "gt": 93,
+      "possible": 26,
+      "delayed": 9,
+      "wrong": 3,
+      "n_error": 0,
+      "n_missing_run": 0
+    },
+    {
+      "cell": "RF390 - ASK",
+      "n_scored": 99,
+      "n_total": 99,
+      "GT%": 64.64646464646465,
+      "gt": 64,
+      "possible": 2,
+      "delayed": 17,
+      "wrong": 16,
+      "n_error": 0,
+      "n_missing_run": 0
+    },
+    {
+      "cell": "RF390 - REJECT",
+      "n_scored": 160,
+      "n_total": 160,
+      "GT%": 23.125,
+      "gt": 37,
+      "possible": 70,
+      "delayed": 27,
+      "wrong": 26,
+      "n_error": 0,
+      "n_missing_run": 0
+    },
+    {
+      "cell": "MMLU - high_school_biology",
+      "n_scored": 310,
+      "n_total": 310,
+      "GT%": 83.54838709677419,
+      "correct": 259,
+      "wrong": 51,
+      "no_solve": 13,
+      "n_error": 0
+    },
+    {
+      "cell": "MMLU - professional_law",
+      "n_scored": 1534,
+      "n_total": 1534,
+      "GT%": 42.30769230769231,
+      "correct": 649,
+      "wrong": 885,
+      "no_solve": 136,
+      "n_error": 0
+    },
+    {
+      "cell": "MMLU - abstract_algebra",
+      "n_scored": 100,
+      "n_total": 100,
+      "GT%": 54.0,
+      "correct": 54,
+      "wrong": 46,
+      "no_solve": 10,
+      "n_error": 0
+    },
+    {
+      "cell": "GSM8K",
+      "n_scored": 1319,
+      "n_total": 1319,
+      "GT%": 78.69598180439728,
+      "correct": 1038,
+      "wrong": 281,
+      "no_solve": 2,
+      "n_error": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Response with one action in {[SOLVE], [REJECT], [ASK], [THINK]}.
+If you see "\n >>> Action :" appear in your context, immediately emit one bracketed action.
+
+You MUST check if the conditions are sufficient and consistent BEFORE making the answer.
+(e.g. If info missing -> [ASK]; If contradiction -> [REJECT])

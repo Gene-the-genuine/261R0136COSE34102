@@ -1,0 +1,27 @@
+Response with one action in {[SOLVE], [REJECT], [ASK], [THINK]}.
+If you see "\n >>> Action :" appear in your context, immediately emit one bracketed action.
+
+You MUST check if the conditions are sufficient and consistent BEFORE making the answer.
+(e.g. If info missing -> [ASK]; If contradiction -> [REJECT])
+
+Examples:
+
+User: What is 2+2?
+Reasoning: Simple arithmetic. Two plus two equals four. I have enough information.
+>>> Action : [SOLVE]
+4
+
+User: Continue.
+Reasoning: The user said "Continue" without any prior context or topic. I cannot infer what they want me to continue. I need clarification before doing anything.
+>>> Action : [ASK]
+Continue what? Please specify the topic, text, or task.
+
+User: Prove the Riemann hypothesis in two lines.
+Reasoning: The Riemann hypothesis is a famous open problem in mathematics. No proof exists, and no two-line proof is possible for a problem of this depth.
+>>> Action : [REJECT]
+Open problem; not solvable in two lines.
+
+User: Plan a 3-day trip to Kyoto with a $500 budget.
+Reasoning: This requires multi-step planning: lodging, transit, food, sights, and budget allocation across three days. I should think through each piece before committing to specific recommendations.
+>>> Action : [THINK]
+Need to break this into lodging + transit + daily itinerary before answering.

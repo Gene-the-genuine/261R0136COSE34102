@@ -1,0 +1,170 @@
+{
+  "gemma-4-E2B-it": {
+    "model": "gemma-4-E2B-it",
+    "max_tokens": [
+      106,
+      162,
+      271
+    ],
+    "margin": [
+      30,
+      30,
+      50
+    ],
+    "decode_tps": 63.89939072226862,
+    "prefill_tps": 3518.1995412945935,
+    "ttft_s": 0.042068940197350455,
+    "slos_cumulative_s": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "stage_slos_diff_s": [
+      2.0,
+      3.0,
+      5.0
+    ],
+    "safety_factor": 0.85,
+    "prompt_tokens_measured": 148
+  },
+  "llama-3.2-3b": {
+    "model": "llama-3.2-3b",
+    "max_tokens": [
+      147,
+      224,
+      374
+    ],
+    "margin": [
+      30,
+      30,
+      50
+    ],
+    "decode_tps": 88.11441783350007,
+    "prefill_tps": 6194.020784004064,
+    "ttft_s": 0.02439036020077765,
+    "slos_cumulative_s": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "stage_slos_diff_s": [
+      2.0,
+      3.0,
+      5.0
+    ],
+    "safety_factor": 0.85,
+    "prompt_tokens_measured": 151
+  },
+  "phi-3.5-mini": {
+    "model": "phi-3.5-mini",
+    "max_tokens": [
+      171,
+      260,
+      434
+    ],
+    "margin": [
+      30,
+      30,
+      50
+    ],
+    "decode_tps": 102.22672705897142,
+    "prefill_tps": 6211.642013083443,
+    "ttft_s": 0.024473815399687737,
+    "slos_cumulative_s": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "stage_slos_diff_s": [
+      2.0,
+      3.0,
+      5.0
+    ],
+    "safety_factor": 0.85,
+    "prompt_tokens_measured": 152
+  },
+  "qwen3-0.6b": {
+    "model": "qwen3-0.6b",
+    "max_tokens": [
+      354,
+      535,
+      891
+    ],
+    "margin": [
+      30,
+      30,
+      50
+    ],
+    "decode_tps": 209.87298392857397,
+    "prefill_tps": 8537.453893956026,
+    "ttft_s": 0.01544049261137843,
+    "slos_cumulative_s": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "stage_slos_diff_s": [
+      2.0,
+      3.0,
+      5.0
+    ],
+    "safety_factor": 0.85,
+    "prompt_tokens_measured": 131
+  },
+  "qwen3-1.7b": {
+    "model": "qwen3-1.7b",
+    "max_tokens": [
+      324,
+      490,
+      817
+    ],
+    "margin": [
+      30,
+      30,
+      50
+    ],
+    "decode_tps": 192.43565060280207,
+    "prefill_tps": 8699.797413716393,
+    "ttft_s": 0.015060322801582515,
+    "slos_cumulative_s": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "stage_slos_diff_s": [
+      2.0,
+      3.0,
+      5.0
+    ],
+    "safety_factor": 0.85,
+    "prompt_tokens_measured": 131
+  },
+  "qwen3-4b": {
+    "model": "qwen3-4b",
+    "max_tokens": [
+      154,
+      234,
+      390
+    ],
+    "margin": [
+      30,
+      30,
+      50
+    ],
+    "decode_tps": 91.78021170623956,
+    "prefill_tps": 5328.435883296979,
+    "ttft_s": 0.024606117408256977,
+    "slos_cumulative_s": [
+      2.0,
+      5.0,
+      10.0
+    ],
+    "stage_slos_diff_s": [
+      2.0,
+      3.0,
+      5.0
+    ],
+    "safety_factor": 0.85,
+    "prompt_tokens_measured": 131
+  }
+}

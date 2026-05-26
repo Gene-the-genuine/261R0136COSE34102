@@ -1,0 +1,100 @@
+{"id": "MMLU-abstract_algebra-0001", "task": "mmlu", "answer_letter": "B", "choices": ["0", "4", "2", "6"]}
+{"id": "MMLU-abstract_algebra-0002", "task": "mmlu", "answer_letter": "C", "choices": ["8", "2", "24", "120"]}
+{"id": "MMLU-abstract_algebra-0003", "task": "mmlu", "answer_letter": "D", "choices": ["0", "1", "0,1", "0,4"]}
+{"id": "MMLU-abstract_algebra-0004", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0005", "task": "mmlu", "answer_letter": "B", "choices": ["2x^2 + 5", "6x^2 + 4x + 6", "0", "x^2 + 1"]}
+{"id": "MMLU-abstract_algebra-0006", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0007", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0008", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0009", "task": "mmlu", "answer_letter": "B", "choices": ["0", "4", "2", "6"]}
+{"id": "MMLU-abstract_algebra-0010", "task": "mmlu", "answer_letter": "C", "choices": ["1", "2", "2,3", "6"]}
+{"id": "MMLU-abstract_algebra-0011", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0012", "task": "mmlu", "answer_letter": "C", "choices": ["symmetric only", "anti-symmetric only", "both symmetric and anti-symmetric", "an equivalence relation"]}
+{"id": "MMLU-abstract_algebra-0013", "task": "mmlu", "answer_letter": "A", "choices": ["1", "2", "5", "11"]}
+{"id": "MMLU-abstract_algebra-0014", "task": "mmlu", "answer_letter": "C", "choices": ["(x − 2)(x + 2)(x − 1)", "(x + 1)(x + 4)(x − 2)", "(x + 1)(x − 4)(x − 2)", "(x - 1)(x − 4)(x − 2)"]}
+{"id": "MMLU-abstract_algebra-0015", "task": "mmlu", "answer_letter": "C", "choices": ["6", "12", "30", "105"]}
+{"id": "MMLU-abstract_algebra-0016", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0017", "task": "mmlu", "answer_letter": "C", "choices": ["1", "-1", "i", "-i"]}
+{"id": "MMLU-abstract_algebra-0018", "task": "mmlu", "answer_letter": "C", "choices": ["(1,1)", "(3,1)", "(1,6)", "(3,6)"]}
+{"id": "MMLU-abstract_algebra-0019", "task": "mmlu", "answer_letter": "D", "choices": ["multiplication is not a binary operation", "multiplication is not associative", "identity element does not exist", "zero has no inverse"]}
+{"id": "MMLU-abstract_algebra-0020", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0021", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0022", "task": "mmlu", "answer_letter": "A", "choices": ["2x^2 + 5", "6x^2 + 4x + 6", "0", "x^2 + 1"]}
+{"id": "MMLU-abstract_algebra-0023", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0024", "task": "mmlu", "answer_letter": "D", "choices": ["semi group with identity", "commutative semigroups with identity", "group", "abelian group"]}
+{"id": "MMLU-abstract_algebra-0025", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0026", "task": "mmlu", "answer_letter": "C", "choices": ["subgroup", "finite abelian group", "infinite, non abelian group", "ininite, abelian"]}
+{"id": "MMLU-abstract_algebra-0027", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0028", "task": "mmlu", "answer_letter": "B", "choices": ["Yes, with p=2.", "Yes, with p=3.", "Yes, with p=5.", "No."]}
+{"id": "MMLU-abstract_algebra-0029", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0030", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0031", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0032", "task": "mmlu", "answer_letter": "B", "choices": ["commutative semi group", "abelian group", "non-abelian group", "None of these"]}
+{"id": "MMLU-abstract_algebra-0033", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0034", "task": "mmlu", "answer_letter": "C", "choices": ["g = g^-1 for every g in G", "g = g^2 for every g in G", "(g o h)^2 = g^2 o h^2 for every g,h in G", "G is of finite order"]}
+{"id": "MMLU-abstract_algebra-0035", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0036", "task": "mmlu", "answer_letter": "B", "choices": ["0", "4", "2", "6"]}
+{"id": "MMLU-abstract_algebra-0037", "task": "mmlu", "answer_letter": "D", "choices": ["0", "1", "11", "22"]}
+{"id": "MMLU-abstract_algebra-0038", "task": "mmlu", "answer_letter": "B", "choices": ["Yes, with p=2.", "Yes, with p=3.", "Yes, with p=5.", "No."]}
+{"id": "MMLU-abstract_algebra-0039", "task": "mmlu", "answer_letter": "C", "choices": ["1", "2", "3", "4"]}
+{"id": "MMLU-abstract_algebra-0040", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0041", "task": "mmlu", "answer_letter": "C", "choices": ["0", "1", "-1", "12"]}
+{"id": "MMLU-abstract_algebra-0042", "task": "mmlu", "answer_letter": "A", "choices": ["0", "3", "12", "30"]}
+{"id": "MMLU-abstract_algebra-0043", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0044", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0045", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0046", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0047", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0048", "task": "mmlu", "answer_letter": "B", "choices": ["0", "2", "1", "3"]}
+{"id": "MMLU-abstract_algebra-0049", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0050", "task": "mmlu", "answer_letter": "B", "choices": ["8", "120", "240", "24"]}
+{"id": "MMLU-abstract_algebra-0051", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0052", "task": "mmlu", "answer_letter": "B", "choices": ["0", "2", "1", "3"]}
+{"id": "MMLU-abstract_algebra-0053", "task": "mmlu", "answer_letter": "A", "choices": ["6", "8", "4", "2"]}
+{"id": "MMLU-abstract_algebra-0054", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0055", "task": "mmlu", "answer_letter": "B", "choices": ["0", "2", "1", "3"]}
+{"id": "MMLU-abstract_algebra-0056", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0057", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0058", "task": "mmlu", "answer_letter": "B", "choices": ["1", "2", "3", "4"]}
+{"id": "MMLU-abstract_algebra-0059", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0060", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0061", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0062", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0063", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0064", "task": "mmlu", "answer_letter": "B", "choices": ["not anti-symmetric", "transitive", "reflexive", "symmetric"]}
+{"id": "MMLU-abstract_algebra-0065", "task": "mmlu", "answer_letter": "B", "choices": ["1", "2", "infinitely many", "0"]}
+{"id": "MMLU-abstract_algebra-0066", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0067", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0068", "task": "mmlu", "answer_letter": "C", "choices": ["a,b in H=> a * b in H", "a in H => a^-1 in H", "a,b in H=> a * b^-1 in H", "H contains the identity element"]}
+{"id": "MMLU-abstract_algebra-0069", "task": "mmlu", "answer_letter": "A", "choices": ["(x − 2)(x + 2)(x − 1)(x + 1)", "(x+1)^4", "(x-1)(x+1)^3", "(x-1)^3(x+1)"]}
+{"id": "MMLU-abstract_algebra-0070", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0071", "task": "mmlu", "answer_letter": "D", "choices": ["0", "-2", "a-2", "(2+a)*-1"]}
+{"id": "MMLU-abstract_algebra-0072", "task": "mmlu", "answer_letter": "C", "choices": ["0", "4", "2", "6"]}
+{"id": "MMLU-abstract_algebra-0073", "task": "mmlu", "answer_letter": "D", "choices": ["1", "2", "3", "4"]}
+{"id": "MMLU-abstract_algebra-0074", "task": "mmlu", "answer_letter": "B", "choices": ["0", "3", "12", "30"]}
+{"id": "MMLU-abstract_algebra-0075", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0076", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0077", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0078", "task": "mmlu", "answer_letter": "A", "choices": ["0", "3", "12", "30"]}
+{"id": "MMLU-abstract_algebra-0079", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0080", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0081", "task": "mmlu", "answer_letter": "B", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0082", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0083", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0084", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0085", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0086", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0087", "task": "mmlu", "answer_letter": "A", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0088", "task": "mmlu", "answer_letter": "A", "choices": ["-19", "-10", "19", "10"]}
+{"id": "MMLU-abstract_algebra-0089", "task": "mmlu", "answer_letter": "A", "choices": ["0", "1", "4", "6"]}
+{"id": "MMLU-abstract_algebra-0090", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0091", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0092", "task": "mmlu", "answer_letter": "B", "choices": ["4Z", "4Z, 2 + 4Z", "2Z", "Z"]}
+{"id": "MMLU-abstract_algebra-0093", "task": "mmlu", "answer_letter": "B", "choices": ["Every equivalence relation is a partial-ordering relation.", "Number of relations form A = {x, y, z} to B= (1, 2), is 64.", "Empty relation _ is reflexive", "Properties of a relation being symmetric and being un-symmetric are negative of each other."]}
+{"id": "MMLU-abstract_algebra-0094", "task": "mmlu", "answer_letter": "A", "choices": ["6", "12", "30", "105"]}
+{"id": "MMLU-abstract_algebra-0095", "task": "mmlu", "answer_letter": "D", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0096", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}
+{"id": "MMLU-abstract_algebra-0097", "task": "mmlu", "answer_letter": "B", "choices": ["0", "1", "0,1", "2"]}
+{"id": "MMLU-abstract_algebra-0098", "task": "mmlu", "answer_letter": "C", "choices": ["25", "5", "6", "30"]}
+{"id": "MMLU-abstract_algebra-0099", "task": "mmlu", "answer_letter": "C", "choices": ["4", "8", "12", "6"]}
+{"id": "MMLU-abstract_algebra-0100", "task": "mmlu", "answer_letter": "C", "choices": ["True, True", "False, False", "True, False", "False, True"]}

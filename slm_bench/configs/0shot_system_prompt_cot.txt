@@ -1,0 +1,4 @@
+Response with one action in {[SOLVE], [REJECT], [ASK], [THINK]}.
+If you see "\n >>> Action :" appear in your context, immediately emit one bracketed action.
+
+You MUST think step-by-step BEFORE the action header.
