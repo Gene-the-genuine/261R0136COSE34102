@@ -1,4 +1,5 @@
 # RF390: A Context-Aware Task Feasibility Benchmark for SLMs under SLO-constraints
+<img width="1426" height="621" alt="system_overview" src="https://github.com/user-attachments/assets/3b1f320e-efee-4488-9ba9-37fdeaf4de42" />
 
 This repository accompanies the paper *"RF390: A Context-Aware Task Feasibility Benchmark for SLMs under SLO-constraints"* and contains the full
 benchmark harness, scoring policy, experiments, and raw run traces used to
