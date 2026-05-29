@@ -13,7 +13,7 @@ token usage.
 ```
 prompt → State 0 → call → action token
                             ├─ SOLVE / REJECT      → End
-                            ├─ ASK   → user simulator (codex) → State 1
+                            ├─ ASK   → user simulator/Replying Agent (codex) → State 1
                             └─ THINK → "계속."                 → State 1
 State 1: same transitions
 State 2: ANY action → End
@@ -285,15 +285,9 @@ overwrites the matching files.
 ## Known design decisions / caveats
 
 1. **Stage transition counts model calls, not codex latency**. The simulator's
-   wall-clock isn't attributed to a stage budget.
-2. **No SLO timeout enforcement inside the harness** — `max_tokens` is the
-   physical cap; the SLO is informational and used only by the scoring policy.
-3. **`THINK` not blocked at State 2** — it's recorded as
-   `end_reason=state2_terminal_think` and the trace ends.
+   wall-clock isn't attributed to a stage budget. This is intended to realistically simulate real-world human-agent interactions.
 4. **Simulator depends on external LLM**. If codex hangs, the harness applies
    per-prompt timeouts inherited from the chain script (`timeout 1800`).
-5. **Ground truth is downstream**. The harness records only model action; the
-   scorer needs a fixture with `label` (RF) or `task/answer` (HF) to grade.
 
 ## License
 
